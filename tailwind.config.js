@@ -7,6 +7,7 @@ export default {
   theme: {
     extend: {
       colors: {
+        brand: '#5865F2',
         gray: {
           50: '#ECEDEE',
           100: '#DCDDDE',

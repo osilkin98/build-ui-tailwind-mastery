@@ -1,5 +1,5 @@
 import './App.css'
-import DiscordClone from './lessons/4-customizing-colors/file'
+import DiscordClone from './lessons/6-svg/file'
 
 function App() {
 
